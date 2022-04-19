@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.wahyuproject.app_radyalabs">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="app_radyalabs"
         android:name="${applicationName}"
